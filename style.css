@@ -1,0 +1,29 @@
+#header1{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Lobster', cursive;
+color: #6F61C0;
+text-align: center;
+background-color: A084E8;
+border-radius: 10px;
+border: solid #000000;
+border-width:3px;
+}
+
+#p1{
+    font-family: monospace;
+    background-color: 8BE8E5;
+}
+
+h1{
+    color: A084E8;
+}
+
+
+.about{
+    color: #6F61C0;
+    text-align: center;
+}
+
+html{
+    background-color: D5FFE4;
+}
